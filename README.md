@@ -3,7 +3,7 @@ HUABANK
 
 school project. (distributed systems). 
 
-
+netbeans project
 A hypothetical bank, web site &amp; db (based on java ,jsp & javascript)
 
 
